@@ -3,7 +3,7 @@
 *																*
 *	Version:	0.1												*
 *	Author: 	Jim Saxton  									*
-*	this source code is released under the GPL					*
+*	this source code is released under GNU GPL v2				*
 *---------------------------------------------------------------*
 * Based on BinaryCockSS by David Enderson                       *
 ****************************************************************/
